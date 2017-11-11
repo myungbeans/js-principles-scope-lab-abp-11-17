@@ -18,5 +18,7 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "not Guy"
 }
 
-var favoriteCustomer = "boy"
-favoriteCustomer = "girl"
+function attemptTwoFavoriteCustomers() {
+  favoriteCustomer = "boy"
+  favoriteCustomer = "girl"
+}
