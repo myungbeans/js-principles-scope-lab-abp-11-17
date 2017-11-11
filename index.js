@@ -17,3 +17,6 @@ const leastFavoriteCustomer = "Guy"
 function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = "not Guy"
 }
+
+var favoriteCustomer = "boy"
+var favoriteCustomer = "girl"
