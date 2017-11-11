@@ -19,4 +19,4 @@ function changeLeastFavoriteCustomer() {
 }
 
 var favoriteCustomer = "boy"
-let favoriteCustomer = "girl"
+var favoriteCustomer = "girl"
