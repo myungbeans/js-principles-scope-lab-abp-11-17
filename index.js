@@ -19,6 +19,6 @@ function changeLeastFavoriteCustomer() {
 }
 
 function attemptTwoFavoriteCustomers() {
-  favoriteCustomer = "boy"
+  const favoriteCustomer = "boy"
   favoriteCustomer = "girl"
 }
